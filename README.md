@@ -1,4 +1,4 @@
-# Hi there, I'm Ilyas👋
+# Hi there👋
 Briefly about me I am a starting Software Engineer, aiming to become an fullstack developer. Interested at video games, playing guitar and have addiction to music. 
 ### Connect with me:
 @Ilyas_2805 <img height="16" width="16" style="margin:50px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png"/>
